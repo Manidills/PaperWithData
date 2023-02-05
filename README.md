@@ -74,21 +74,21 @@ PaperWithData comes with the **API as a serveice model**, who can use oue api to
 
 3. Storage - IPFS ( Lighthouse , NFT storage, web3 storage )
 
-# Screenshot -
+# Sample Screenshot -
 
-<a href="https://i.postimg.cc/gYgPKwpm/fvm-1.png?dl=1"><img src="https://i.postimg.cc/gYgPKwpm/fvm-1.png?dl=1" alt="Add-a-heading" border="0" width="1200" height="500"></a>
+<a href="https://i.postimg.cc/gYgPKwpm/fvm-1.png?dl=1"><img src="https://i.postimg.cc/gYgPKwpm/fvm-1.png?dl=1" alt="Add-a-heading" border="0" width="1000" height="500"></a>
 
-<a href="https://i.postimg.cc/ZRVRmms2/fvm-7.png"><img src="https://i.postimg.cc/ZRVRmms2/fvm-7.png" alt="Add-a-heading" border="0" width="1200" height="500"></a>
+<a href="https://i.postimg.cc/ZRVRmms2/fvm-7.png"><img src="https://i.postimg.cc/ZRVRmms2/fvm-7.png" alt="Add-a-heading" border="0" width="1000" height="500"></a>
 
-<a href="https://i.postimg.cc/D2y9m2XD/fvm-2.png?dl=1"><img src="https://i.postimg.cc/D2y9m2XD/fvm-2.png?dl=1" alt="Add-a-heading" border="0" width="1200" height="500"></a>
+<a href="https://i.postimg.cc/D2y9m2XD/fvm-2.png?dl=1"><img src="https://i.postimg.cc/D2y9m2XD/fvm-2.png?dl=1" alt="Add-a-heading" border="0" width="1000" height="500"></a>
 
-<a href="https://i.postimg.cc/1SYQnNMK/fvm-3.png?dl=1"><img src="https://i.postimg.cc/1SYQnNMK/fvm-3.png?dl=1" alt="Add-a-heading" border="0" width="1200" height="500"></a>
+<a href="https://i.postimg.cc/1SYQnNMK/fvm-3.png?dl=1"><img src="https://i.postimg.cc/1SYQnNMK/fvm-3.png?dl=1" alt="Add-a-heading" border="0" width="1000" height="500"></a>
 
-<a href="https://i.postimg.cc/Z46tMsmf/fvm-4.png?dl=1"><img src="https://i.postimg.cc/Z46tMsmf/fvm-4.png?dl=1" alt="Add-a-heading" border="0" width="1200" height="500"></a>
+<a href="https://i.postimg.cc/Z46tMsmf/fvm-4.png?dl=1"><img src="https://i.postimg.cc/Z46tMsmf/fvm-4.png?dl=1" alt="Add-a-heading" border="0" width="1000" height="500"></a>
 
-<a href="https://i.postimg.cc/9VRjGFnH/fvm-5.png?dl=1"><img src="https://i.postimg.cc/9VRjGFnH/fvm-5.png?dl=1" alt="Add-a-heading" border="0" width="1200" height="500"></a>
+<a href="https://i.postimg.cc/9VRjGFnH/fvm-5.png?dl=1"><img src="https://i.postimg.cc/9VRjGFnH/fvm-5.png?dl=1" alt="Add-a-heading" border="0" width="1000" height="500"></a>
 
-<a href="https://i.postimg.cc/4XzfpNnx/fvm-6.png?dl=1"><img src="https://i.postimg.cc/4XzfpNnx/fvm-6.png?dl=1" alt="Add-a-heading" border="0" width="1200" height="500"></a>
+<a href="https://i.postimg.cc/4XzfpNnx/fvm-6.png?dl=1"><img src="https://i.postimg.cc/4XzfpNnx/fvm-6.png?dl=1" alt="Add-a-heading" border="0" width="1000" height="500"></a>
 
 
 
