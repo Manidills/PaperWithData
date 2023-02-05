@@ -30,6 +30,8 @@ PaperWithData
 3. It tried to solve the gap between AI researcher/dev and blockchain space.
 
 4. Central place that helps to data analysts, data scientiest, data reseachers, ML/DL devs.
+
+5. IPFS + FVM += Fire
 ```
 
 ## Design
@@ -40,7 +42,7 @@ PaperWithData
 
   * Users -
   
-    1. Initially user need to connect there wallet on filecoin chain to login ( current deployment under hyperspace testnet )
+    1. Initially user need to connect there wallet on **filecoin chain** to login ( current deployment under hyperspace testnet )
     
     2. They can view or download any papers/datasets/AI models based on there search.
     
@@ -56,7 +58,7 @@ PaperWithData
     
     4. Once it got approved by our community peoples, it pushed to **FVM**.
     
-    5. Community people will get our PWD token, swag and more prizes each month based on there activities. It ensure both filecoin network and PaperWithCode more engaged over time.
+    5. Community people will get our **PWD token, swag and more prizes** each month based on there activities. It ensure both filecoin network and PaperWithCode more engaged over time.
 
 
 # Stack
