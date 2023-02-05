@@ -1,7 +1,6 @@
 git+https://github.com/nftstorage/python-client.git
 pandas==1.4.0
 requests==2.22.0
-streamlit==1.12.2
 streamlit_lottie==0.0.3
 streamlit_wallet_connect==0.0.9
 web3==5.30.0
