@@ -65,6 +65,8 @@ PaperWithData
 
 PaperWithData comes with the **API as a service model**, who can use oue api to get datas and push data for approval. Internal APIs that only works for community peoples to vote and validate the datas.
 
+Our current daily pipeline on run to grab different papers/datasets/models from various places that also validate by our community and contracts. Currently we using **vote_and_approve.sol, paperwithdata.sol, pwd.sol ( erc20 ) three contracts**, yet to add more checks. 
+
 <div align="center">
 
   <a href="https://i.postimg.cc/SKndb1vS/fvm-api.png"><img src="https://i.postimg.cc/SKndb1vS/fvm-api.png" alt="Add-a-heading" border="0" width="1200" height="500"></a>
