@@ -3,4 +3,5 @@ pandas
 requests
 streamlit_lottie
 streamlit_wallet_connect
-web3
+web3==5.30.0
+streamlit==1.12.2
