@@ -63,7 +63,7 @@ PaperWithData
 
 # Stack
 
-PaperWithData comes with the **API as a serveice model**, who can use oue api to get datas and push data for approval. Internal APIs that only works for community peoples to vote and validate the datas.
+PaperWithData comes with the **API as a service model**, who can use oue api to get datas and push data for approval. Internal APIs that only works for community peoples to vote and validate the datas.
 
 <div align="center">
 
