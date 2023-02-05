@@ -1,5 +1,5 @@
 git+https://github.com/nftstorage/python-client.git
-pandas==
+pandas
 requests
 streamlit_lottie
 streamlit_wallet_connect
