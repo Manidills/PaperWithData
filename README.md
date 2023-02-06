@@ -67,7 +67,7 @@ PaperWithData comes with the **API as a service model**, who can use oue api to 
 
 Our current daily pipeline on run to grab different papers/datasets/models from various places that also validate by our community and contracts. Currently we using **vote_and_approve.sol, paperwithdata.sol, pwd.sol ( erc20 )**, yet to add more contracts. 
 
-   Deployed contract_address = 0x8A3BFF2474dF2331Ed667082ae99A4E69eAAb967  ( Hyperspace testnet )
+   **Deployed contract_address = 0x8A3BFF2474dF2331Ed667082ae99A4E69eAAb967  ( Hyperspace testnet )**
 
 <div align="center">
 
@@ -79,6 +79,8 @@ Our current daily pipeline on run to grab different papers/datasets/models from 
 2. Webapp ( Alpha ) - Streamlit on https://huggingface.co/ 
 
 3. Storage - IPFS ( Lighthouse , NFT storage, web3 storage )
+
+4. Blockchain - Filecoin ( Hypersapce testnet currently )
 
 # Sample Screenshot -
 
