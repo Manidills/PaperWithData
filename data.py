@@ -39,7 +39,7 @@ def get_all(search_word):
             <embed src="https://{i[1]}.ipfs.nftstorage.link/" width="600" height="600">
             """, unsafe_allow_html=True)
             with col2:
-                st.download_button(label=f"Download dataset_{i[0]}",data=  requests.get(f"https://bafybeiclvp2oq24nbmg24yu2dhowa5i6xydpkauhorikmtdxqiv6z65tsy.ipfs.nftstorage.link/").content, file_name=f'{i[0]}.h5')
+                st.download_button(label=f"Download dataset_{i[0]}",data=  requests.get(f"https://bafybeiclvp2oq24nbmg24yu2dhowa5i6xydpkauhorikmtdxqiv6z65tsy.ipfs.nftstorage.link/").content, file_name=f'{i[0]}.csv')
                 st.download_button(label=f"Download model_{i[0]}",data=  requests.get(f"https://bafybeiahbxszypzogd25vwshqi5hjyy2zu3rgakfoqllc3mm6bo3xd2ygq.ipfs.nftstorage.link/").content, file_name=f'{i[0]}.h5')
 
 
